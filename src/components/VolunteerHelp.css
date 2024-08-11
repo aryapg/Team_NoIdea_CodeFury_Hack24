@@ -1,0 +1,55 @@
+.volunteer-help {
+    margin: 20px 0;
+    padding: 30px;
+    background: linear-gradient(to right, #f0f4f8, #f7fafc);
+    border-radius: 15px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .volunteer-help h2 {
+    color: #2c3e50;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .volunteer-help p {
+    color: #34495e;
+    font-size: 16px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .volunteer-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .volunteer-item {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: 45%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .volunteer-item h3 {
+    color: #2980b9;
+    margin-top: 10px;
+    font-size: 18px;
+  }
+  
+  .volunteer-item p {
+    color: #7f8c8d;
+    font-size: 14px;
+  }
+  
+  .volunteer-icon {
+    color: #2980b9;
+    font-size: 40px;
+  }
+  
