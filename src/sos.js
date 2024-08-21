@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import axios from 'axios';
 
 const LocationSMS = () => {
-  const googleApiKey = 'AIzaSyD09_LOGDPCzsLtQPuFblnFxFVTaRAoXEY';
+  const googleApiKey = 'ADD_YOUR_API_KEY';
   const sinchUrl = 'https://sms.api.sinch.com/xms/v1/9f1e4cf8132f41a691f94278f276ffc7/batches';
   const sinchAccessToken = '1b23114d88544c89b03bdec6241c6342';
 
